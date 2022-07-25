@@ -4,14 +4,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ALBI0NE/frontendmentor-qrcode)
+- Live Site URL: [Add live site URL here](https://albi0ne.github.io/frontendmentor-qrcode/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Jakub Kopacz](https://www.linkedin.com/in/jakub-kopacz-10167a174/)
+- Frontend Mentor - [@ALBIONE](https://www.frontendmentor.io/profile/ALBI0NE)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
